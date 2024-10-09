@@ -1,0 +1,93 @@
+html {
+  background-image: linear-gradient(yellow, red);
+}
+
+body {
+  background-color: rgb(255, 255, 255, 0.8);
+  width: 800px;
+  margin: 0 auto;
+  border: 3px solid black;
+  padding: 20px 20px;
+  border-radius: 20px;
+  font-family: "Overpass", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  padding: 10px 10px;
+  font-size: 50px;
+}
+
+h3 {
+  padding: 0px 20px;
+}
+
+hr {
+  border-color: silver;
+  border: 4px dashed silver;
+}
+
+td,
+th,
+table {
+  border: 1px solid black;
+}
+
+#xtra {
+  margin: 0 auto;
+}
+
+#Objective {
+  font-size: 20px;
+}
+
+#edu,
+#edu th {
+  border-collapse: collapse;
+  border: none;
+  margin: auto;
+}
+
+div {
+  margin: auto;
+}
+
+a:hover {
+  color: rgb(164, 177, 49);
+  transition: 1s;
+}
+
+#References {
+  margin: 0 auto;
+}
+
+#image {
+  margin: auto;
+  text-align: center;
+}
+
+#volunteer {
+  margin: 0 auto;
+}
+
+span {
+  text-align: center;
+}
+
+#Objective {
+  margin: 0 auto;
+  text-align: center;
+}
+
+#headingobj {
+  text-align: center;
+}
+
+#highschool {
+  text-align: center;
+}
+
+/* New Things Learned: address tag, 
+gradient background, 
+dashed border, 
+hr border color property (to change an hr's colour) */
